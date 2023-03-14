@@ -1,2 +1,2 @@
 #!/bin/bash
-etc/hosts/etc/hosts
+cat /etc/hosts/etc/hosts
